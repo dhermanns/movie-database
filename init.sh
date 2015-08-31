@@ -4,6 +4,7 @@ MOVIE_DATABASE_HOME=/home/vagrant/share
 
 apt-get -y update
 apt-get -y install \
+    git \
     unzip \
     redis-server \
     nginx \
